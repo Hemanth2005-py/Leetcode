@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Hemanth2005-py/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanth2005-py/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/Hemanth2005-py/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/Hemanth2005-py/Leetcode/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Hemanth2005-py/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hemanth2005-py/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Hemanth2005-py/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Hemanth2005-py/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Two Pointers
 |  |
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanth2005-py/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Hemanth2005-py/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
